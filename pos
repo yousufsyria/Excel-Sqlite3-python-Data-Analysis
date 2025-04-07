@@ -14,4 +14,3 @@ if pas ==1 or pas==2:
         print(' '.join(pas2))   
 else:
     print("please Enter 1 or 2")   
-print("the end")
